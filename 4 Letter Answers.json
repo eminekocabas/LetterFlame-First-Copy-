@@ -1,0 +1,394 @@
+[
+  {
+    "Harf": "A",
+    "Kelimeler": [
+      "ABES","ABLA","ABUS",
+      "ACAR","ACEM","ACEP","ACİL","ACİZ","ACUN","ACUR",
+      "AÇAR","AÇIK","AÇIŞ",
+      "ADAK","ADAM","ADAP","ADAŞ","ADAY","ADEM","ADET","ADIL","ADIM","ADİL","ADLİ",
+      "AFAL","AFET","AFİF","AFİŞ",
+      "AĞAÇ","AĞDA","AĞIL","AĞIR","AĞIT","AĞIZ","AĞRI",
+      "AHIR",
+      "AİLE","AJAN",
+      "AKAR","AKÇA","AKÇE","AKIL","AKIM","AKIN","AKIŞ","AKLİ","AKNE","AKOR","AKSE","AKSİ","AKSU","AKUR",
+      "ALAN","ALAY","ALÇI","ALEM","ALET","ALEV","ALFA","ALGI","ALIK","ALIN","ALİM","ALTI","ALTO",
+      "AMAÇ","AMAN","AMCA","AMEL","AMFİ","AMİP","AMİR","AMMA","AMME",
+      "ANAÇ","ANCA","ANIT","ANKA","ANNE","ANTİ",
+      "AORT","APAK",
+      "ARAÇ","ARAF","ARAP","ARDA","ARGO","ARİF","ARKA","ARPA","ARSA","ARTI","ARUZ","ARYA","ARZU",
+      "ASAL","ASAP","ASIK","ASIL","ASIR","ASİL","ASİT","ASKI","ASLA","ASLİ","ASMA","ASYA",
+      "AŞÇI","AŞIK",
+      "ATAK","ATAR","ATAŞ","ATEL","ATEŞ","ATIF","ATIK","ATİK","ATKI","ATOM",
+      "AURA","AVAZ","AVCI","AVLU","AVRO","AVUÇ",
+      "AYAK","AYAN","AYAR","AYAZ","AYET","AYIK","AYİN","AYLA","AYNA","AYNI","AYRI","AYVA",
+      "AZAP","AZAR","AZİM","AZİZ","AZOT"
+    ]
+  },
+  {
+    "Harf": "B",
+    "Kelimeler": [
+      "BABA","BACA","BACI","BADE","BADİ","BAHT","BAKI","BAKİ","BALE","BALO","BANA","BANK","BANT",
+      "BARİ","BARO","BARK","BATI","BAYİ","BAZA","BAZI",
+      "BEBE","BEKA","BELA","BERE","BERİ","BERK","BETA","BETİ","BEZE",
+      "BİAT","BİLE","BİNA","BİRA","BİRİ",
+      "BLOG","BLOK","BLÖF","BLUZ",
+      "BOCA","BOĞA","BOKS","BOLU","BONE","BORA","BORÇ","BORU","BOYA","BOZA",
+      "BÖCÜ","BÖLÜ",
+      "BROŞ","BRÜT",
+      "BUCA","BUĞU","BUJİ","BURA","BURÇ","BURS","BUSE",
+      "BÜFE","BÜRO","BÜST","BÜYÜ"
+    ]
+  },
+  {
+    "Harf": "C",
+    "Kelimeler": [
+      "CADI","CAİZ","CAMİ","CANİ",
+      "CEDİ","CEFA","CELP","CENK","CEZA",
+      "CIVA",
+      "CİCİ","CİLA","CİLT","CİNS","CİPS","CİRO",
+      "CUMA","CURA","CÜCE","CÜZİ"
+    ]
+  },
+  {
+  "Harf": "Ç",
+  "Kelimeler": [
+    "ÇABA","ÇAÇA","ÇAKI","ÇALI","ÇAPA","ÇARE","ÇARK","ÇATI",
+    "ÇEKİ","ÇENE","ÇERİ","ÇETE",
+    "ÇIRA","ÇITA",
+    "ÇİFT","ÇİLE","ÇİNİ","ÇİTA","ÇİVİ","ÇİZİ",
+    "ÇOĞU"
+  ]
+},
+  {
+  "Harf": "D",
+  "Kelimeler": [
+    "DADI","DAĞİ","DAHA","DAHİ","DAİM","DAİR","DAMA","DANA","DANE","DANG","DANK","DANS",
+    "DARA","DARI","DARP","DART","DARU","DATA","DAVA","DAYE","DAYI",
+    "DEBİ","DEDE","DEFA","DEFİ","DEFO","DEHA","DELİ","DELK","DEME","DEMO","DENİ","DENK",
+    "DEPO","DERÇ","DERE","DERİ","DERK","DERS","DERT","DERZ","DEVA","DEVE","DEYİ",
+    "DİBA","DİDE","DİMİ","DİNÇ","DİNE","DİNİ","DİNK","DİRİ","DİSK","DİŞİ","DİVA","DİYA","DİYE","DİZE","DİZİ",
+    "DOĞA","DOĞU","DOKU","DOLU","DONE","DORE","DORU","DOST","DÖRT",
+    "DRAM","DREÇ","DREN","DROG",
+    "DUBA","DUDU","DUKA","DUMA","DURU","DUYU",
+    "DÜET","DÜĞÜ","DÜRÜ","DÜSE","DÜVE","DÜZE",
+    "DEST"
+  ]
+},
+  {
+  "Harf": "E",
+  "Kelimeler": [
+    "EBAT","EBRU","ECEL","EDAT","EDEP","EDER",
+    "EFOR","EĞER","EĞİK","EĞİM","EĞRİ",
+    "EHİL","EHLİ",
+    "EKİM","EKİN","EKİP","EKİT","EKLİ","EKME","EKOL","EKRU","EKSİ","EKŞİ",
+    "ELÇİ","ELEK","ELİF","ELİT","ELLİ","ELMA","ELTİ",
+    "EMEK","EMEL","EMİN","EMİR","EMMİ",
+    "ENİK","ENSE",
+    "EPEY","EPİK",
+    "EREN","ERİK","ERİL","EROS",
+    "ESAS","ESEN","ESER","ESİR","ESKİ","ESMA","ESNA",
+    "EŞEK","EŞEY","EŞİK","EŞİT","EŞYA",
+    "ETAP","ETEK","ETER","ETİK","ETKİ","ETLİ","ETÜT",
+    "EVET","EVLİ","EVRE",
+    "EZAN","EZEL","EZGİ","EZİK","EZME"
+  ]
+},
+  {
+  "Harf": "F",
+  "Kelimeler": [
+    "FABL","FAİL","FAİZ","FAKS","FANİ","FARE","FARK","FARS","FARZ","FAUL",
+    "FECİ","FEDA","FELÇ","FENA","FERT",
+    "FIÇI",
+    "FİDE","FİİL","FİLE","FİLM","FİNO","FİRE",
+    "FLAŞ","FLOR","FLÜT",
+    "FOBİ","FOÇA","FONT","FORA","FORM","FOTO","FOYA",
+    "FREN",
+    "FUAR","FÜME","FÜZE"
+  ]
+},
+  {
+  "Harf": "G",
+  "Kelimeler": [
+    "GAGA","GAİP","GALA","GANİ","GARD",
+    "GAYE","GAZİ",
+    "GEBE","GECE","GEÇE","GEMİ","GENÇ","GENE","GERİ","GEZİ",
+    "GIDA","GIDI","GINA",
+    "GİBİ","GİŞE",
+    "GOLF","GONK",
+    "GÖMÜ","GÖRE","GÖRÜ",
+    "GRAM","GRES","GREV","GRİP","GRUP",
+    "GUAJ",
+    "GÜDÜ","GÜVE","GÜYA"
+  ]
+},
+  {
+  "Harf": "H",
+  "Kelimeler": [
+    "HACI","HADİ","HAİN","HAKİ","HALA","HALE","HALI",
+    "HALK","HALT","HANE","HANİ","HARÇ","HARE","HARF","HARP",
+    "HATA","HAVA","HAYA",
+    "HEBA","HECE","HELA","HELE",
+    "HINÇ","HIRS",
+    "HİBE","HİLE","HİZA",
+    "HOBİ","HOCA","HORA",
+    "HUNİ","HURÇ",
+    "HOST"
+  ]
+},
+  {
+  "Harf": "I",
+  "Kelimeler": [
+    "ILIK","ILIM","IRAK","ISIL","ISKA",
+    "IŞIK","IŞIL","IŞIN","ITIR"
+  ]
+},
+  {
+  "Harf": "İ",
+  "Kelimeler": [
+    "İADE","İBİK","İBİS","İBİŞ","İBRE",
+    "İCAP","İCAR","İCAT","İCAZ","İCRA",
+    "İÇİN","İÇKİ","İÇLİ",
+    "İDEA","İDOL",
+    "İFŞA",
+    "İGLO","İĞDE","İĞNE",
+    "İKAZ","İKİZ","İKNA","İKON",
+    "İLAÇ","İLAH","İLAN","İLÇE","İLGİ","İLİM",
+    "İLKE","İLLA","İLLE",
+    "İMAJ","İMAM","İMAN","İMAR","İMGE","İMHA","İMLA","İMZA",
+    "İNAT","İNCE","İNCİ","İNEK",
+    "İNŞA",
+    "İPEK","İPSİ",
+    "İRİN","İRİS",
+    "İSİM","İSOT",
+    "İŞÇİ","İŞTE","İŞVE",
+    "İTİŞ","İTKİ",
+    "İVME",
+    "İYON","İYOT",
+    "İZAH","İZAM","İZAN","İZCİ","İZİN"
+  ]
+},
+  {
+  "Harf": "J",
+  "Kelimeler": [
+    "JALE","JANT","JEST","JÖLE","JUDO","JÜRİ"
+  ]
+},
+  {
+  "Harf": "K",
+  "Kelimeler": [
+    "KABA","KABE","KADI","KAFA","KAFE","KAFİ","KAİN","KAJU",
+    "KALE","KALP","KAMP","KAMU","KANI","KANO","KAOS",
+    "KAPI","KARA","KARE","KARI","KARO","KARS","KART","KASA","KASE","KASK","KAST","KAŞE",
+    "KATI","KATİ","KAYA","KAZA","KAZI",
+    "KEÇE","KEÇİ","KEDİ","KENE","KENT","KERE",
+    "KESE","KESİ","KEZA",
+    "KINA","KIRK","KISA","KITA","KIYI",
+    "KİLE","KİLO","KİMİ","KİRA","KİST","KİŞİ","KİVİ",
+    "KLAN","KLAS","KLİP","KLON","KLOR",
+    "KOCA","KOKU","KOLA","KOLİ","KOMA","KOMİ","KONU",
+    "KORE","KORO","KORT","KORU","KOŞU","KOTA","KOVA","KOYU","KOZA",
+    "KÖLE","KÖSE","KÖŞE","KÖŞK","KÖTÜ",
+    "KRAL","KREM","KREP","KREŞ","KRİZ","KROM",
+    "KUFİ","KUĞU","KULE","KULP","KUPA",
+    "KURS","KURT","KURU","KUTU","KUYU","KUZU",
+    "KÜME","KÜPE","KÜRE","KÜRK"
+  ]
+},
+  {
+  "Harf": "L",
+  "Kelimeler": [
+    "LAİK","LALE","LAMA","LAPA",
+    "LEKE","LENF","LENS",
+    "LİME","LİNÇ","LİNK","LİRA","LİSE",
+    "LOBİ","LOCA","LOGO","LOTO",
+    "LÜKS","LÜLE"
+  ]
+},
+  {
+  "Harf": "M",
+  "Kelimeler": [
+    "MAAŞ","MAÇA","MAÇO","MAİL","MAKİ","MALA","MALİ","MALT","MAMA","MANA","MANİ",
+    "MARK","MARS","MARŞ","MART","MASA","MAŞA","MAVİ",
+    "MAYA","MAYO","MAZI","MAZİ",
+    "MEAL","MENÜ","MERA","MERT","MEST","MEŞE",
+    "MEZE",
+    "MİDE","MİDİ","MİNE","MİNİ",
+    "MODA","MOLA","MONT","MORG","MORS",
+    "MUAF",
+    "MÜLK","MÜZE"
+  ]
+},
+  {
+  "Harf": "N",
+  "Kelimeler": [
+    "NAAŞ","NAİF","NAİL","NAME","NANE",
+    "NATO",
+    "NENE","NEON","NERE","NESİ","NEŞE",
+    "NİCE","NİDA","NİNE","NİSA","NİYE",
+    "NOEL","NORM","NOTA","NÖTR",
+    "NEYE","NELİ"
+  ]
+},
+{
+  "Harf": "O",
+  "Kelimeler": [
+    "OBEZ","OBJE","OBUR",
+    "OCAK","ODAK","ODUN","OFİS",
+    "OĞUL","OĞUZ",
+    "OKÇU","OKKA","OKUL","OKUR",
+    "OLAY","OLEY","OLGU","OLTA","OLUK",
+    "OMUR","OMUZ",
+    "ONAT","ONAY","ONCA","ONLU","ONUR",
+    "OPAK",
+    "ORAK","ORAL","ORAN","ORDU","ORTA","ORUÇ",
+    "OTAĞ","OTÇU","OTEL","OTLU","OTSU","OTUZ",
+    "OVAL",
+    "OYMA","OYSA","OYUK","OYUN",
+    "OZAN","OZON"
+  ]
+},
+{
+  "Harf": "Ö",
+  "Kelimeler": [
+    "ÖBEK","ÖBÜR","ÖDEM","ÖDEV","ÖDÜL","ÖDÜN","ÖFKE",
+    "ÖĞLE","ÖĞÜN","ÖĞÜT",
+    "ÖKSE","ÖKÜZ",
+    "ÖLÇÜ",
+    "ÖMÜR",
+    "ÖNCÜ","ÖNEM",
+    "ÖREN","ÖRFİ","ÖRGÜ","ÖRME","ÖRTÜ",
+    "ÖŞÜR",
+    "ÖTME","ÖTÜŞ",
+    "ÖVGÜ",
+    "ÖYKÜ","ÖYLE",
+    "ÖZEL","ÖZEN","ÖZET","ÖZGE","ÖZGÜ","ÖZLÜ","ÖZNE","ÖZÜR","ÖZÜT"
+  ]
+},
+{
+  "Harf": "P",
+  "Kelimeler": [
+    "PAÇA","PAHA","PALA","PANO","PAPA","PARA","PARE","PARK","PARS","PASO","PAŞA",
+    "PATİ","PAZI",
+    "PEÇE","PEKİ","PENA","PENS","PERİ","PERT","PEST",
+    "PİDE","PİKE","PİLE","PİRE","PİSİ","PİST","PİŞİ",
+    "PLAJ","PLAK","PLAN",
+    "POLO","POSA","POST","POTA",
+    "PRİM","PRİZ",
+    "PUAN","PUMA","PUSU",
+    "PÜRE"
+  ]
+},
+
+  {
+    "Harf": "R",
+    "Kelimeler": [
+      "RAKI","RAZI",
+      "REİS","REST",
+      "RIZA","RİCA","RİNG","RİSK","RİZE",
+      "ROKA","ROTA",
+      "RUHİ","RULO","RUPİ",
+      "RÜYA"
+    ]
+  },
+  {
+    "Harf": "S",
+    "Kelimeler": [
+      "SAAT","SADE","SAFA","SAFİ","SAHA","SAHİ",
+      "SAKA","SALI","SALT","SANA","SANI","SAPA",
+      "SARA","SARF","SARI","SARP","SAYI",
+      "SEDA","SEFA","SELA","SELE","SEMT",
+      "SENE","SERA","SERİ","SERT","SEVK","SEZİ",
+      "SIĞA","SIKI","SILA","SIPA","SIRA","SIRF","SIRP","SIRT","SIVA","SIVI",
+      "SIZI","SİMA","SİNE","SİNİ","SİRK","SİTE",
+      "SKEÇ","SKOR","SLAV","SMAÇ",
+      "SOBA","SOBE","SODA","SOFA","SOLO","SOPA","SORU","SOTE","SOYA",
+      "SÖRF",
+      "SPOR","SPOT","SPAM",
+      "STAJ","STAT","STİL","STOK","STOR",
+      "SUAL","SULU","SUNA","SUNİ","SUNU","SURE","SUŞİ",
+      "SÜET","SÜİT","SÜRE","SÜRÜ"
+    ]
+  },
+  {
+    "Harf": "Ş",
+    "Kelimeler": [
+      "ŞAFT","ŞAİR","ŞAKA","ŞANS","ŞARJ","ŞART",
+      "ŞASE","ŞAŞI","ŞATO","ŞEMA",
+      "ŞEVK","ŞEYH",
+      "ŞİFA","ŞİİR","ŞİKE","ŞİLE","ŞİRK","ŞİŞE","ŞİVE",
+      "ŞORT","ŞUBE","ŞURA","ŞUUR"
+    ]
+  },
+  {
+    "Harf": "T",
+    "Kelimeler": [
+      "TABA","TABİ","TABU","TAHT","TAKI",
+      "TANE","TANI","TANK","TAPU","TART","TARZ","TASA",
+      "TAVA","TAYT","TAZE","TAZI",
+      "TEFE","TEKE","TEMA","TEPE","TERE","TERK","TERS","TEST","TEYP",
+      "TINI","TIPA","TIRT","TİPİ","TİRE",
+      "TOKA","TORK","TOST","TÖRE",
+      "TREN","TROL","TRİP",
+      "TUNÇ","TURA","TURP","TÜRK","TÜYO"
+    ]
+  },
+  {
+    "Harf": "U",
+    "Kelimeler": [
+      "UCUZ","UÇAK","UÇUK",
+      "UFAK","UFUK",
+      "UĞUR",
+      "UKDE",
+      "ULAŞ","ULUS",
+      "UMRE","UMUR","UMUT",
+      "URLA","URFA",
+      "USLU","USTA","USUL",
+      "UŞAK",
+      "UTKU",
+      "UYAK","UYDU","UYKU","UYUM","UYUZ",
+      "UZAK","UZAY","UZUN","UZUV"
+    ]
+  },
+  {
+    "Harf": "Ü",
+    "Kelimeler": [
+      "ÜCRA","ÜÇER","ÜÇLÜ","ÜÇÜZ","ÜLKE","ÜLKÜ",
+      "ÜMİT",
+      "ÜNLÜ",
+      "ÜRÜN",
+      "ÜVEY",
+      "ÜZÜM"
+    ]
+  },
+  {
+    "Harf": "V",
+    "Kelimeler": [
+      "VAAT","VADE","VADİ","VAKA","VALE","VALİ","VALS",
+      "VANA","VAZO",
+      "VEBA","VEDA","VEFA","VELİ","VERİ","VETO","VEYA",
+      "VİDA","VİNÇ",
+      "VOLE","VOLT"
+    ]
+  },
+  {
+    "Harf": "Y",
+    "Kelimeler": [
+      "YAHU","YAKA","YAKI","YALI","YAMA","YANİ","YAPI","YARA","YARI","YASA","YAŞA",
+      "YATI","YAYA","YAZI",
+      "YEDİ","YEİS","YELE","YENİ","YETİ",
+      "YIKI","YİNE",
+      "YOGA","YÖRE",
+      "YURT","YUVA","YÜCE"
+    ]
+  },
+  {
+    "Harf": "Z",
+    "Kelimeler": [
+      "ZAAF","ZAMK","ZAPT","ZARF","ZAZA",
+      "ZEKA","ZEKİ","ZEVK","ZEDE",
+      "ZIRH",
+      "ZİFT","ZİRA",
+      "ZULA"
+    ]
+  }
+]
